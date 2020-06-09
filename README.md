@@ -16,6 +16,7 @@ LinearPogrssBar linearPogrssBar = new LinearPogrssBar();
 now generate your percentage value from wherever in your code.
 finally call _Update_ and _repaint_ methods from _linearPogrssBar_
 ```
+// where i is the percentage value that you generated 
 linearPogrssBar.Update(i);
 linearPogrssBar.repaint();
 ```
