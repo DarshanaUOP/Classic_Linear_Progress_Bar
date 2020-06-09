@@ -10,11 +10,12 @@ This java swing component can integrate with a classic UI design.
 ### HOW TO USE?
 To use this component on your project, download or coppy [LinearPogrssBar.java](src/LinearPogrssBar.java) into your src ( or package) folder.
 then make a object of LinearProgressBar class on your GUI design class
-> <code>LinearPogrssBar linearPogrssBar = new LinearPogrssBar();</code>
-
+```
+LinearPogrssBar linearPogrssBar = new LinearPogrssBar();
+```
 now generate your percentage value from wherever in your code.
 finally call _Update_ and _repaint_ methods from _linearPogrssBar_
-<code>
->  linearPogrssBar.Update(i);
-> linearPogrssBar.repaint();
-</code>
+```
+linearPogrssBar.Update(i);
+linearPogrssBar.repaint();
+```
