@@ -14,8 +14,7 @@ then make a object of LinearProgressBar class on your GUI design class
 
 now generate your percentage value from wherever in your code.
 finally call _Update_ and _repaint_ methods from _linearPogrssBar_
-
-> <code>
-  linearPogrssBar.Update(i);
-  linearPogrssBar.repaint();
+<code>
+>  linearPogrssBar.Update(i);
+> linearPogrssBar.repaint();
 </code>
