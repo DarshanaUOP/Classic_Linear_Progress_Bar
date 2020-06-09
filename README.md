@@ -7,4 +7,4 @@ This is a General pourpous java swing 2DGraphics component created as a classic 
 
 This java swing component can integrate with a classic UI design.
 
-
+### HOW TO USE?
