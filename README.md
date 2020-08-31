@@ -8,7 +8,7 @@ This is a General pourpous java swing 2DGraphics component created as a classic 
 This java swing component can integrate with a classic UI design.
 
 ### HOW TO USE?
-To use this component on your project, download or coppy [LinearPogrssBar.java](src/LinearPogrssBar.java) into your src ( or package) folder.
+To use this component on your project, download or coppy [LinearPogrssBar.java](src/LinearPogrssBar.java) into your src (or package) folder.
 then make a object of LinearProgressBar class on your GUI design class
 ```
 LinearPogrssBar linearPogrssBar = new LinearPogrssBar();
